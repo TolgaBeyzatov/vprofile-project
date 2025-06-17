@@ -1,3 +1,4 @@
+#####
 # Prerequisites
 #
 - JDK 17 or 21
