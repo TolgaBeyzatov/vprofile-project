@@ -1,6 +1,6 @@
 # Prerequisites
-###
-- JDK 11 
+#
+- JDK 11 (change for a test commit message)
 - Maven 3 
 - MySQL 8
 
